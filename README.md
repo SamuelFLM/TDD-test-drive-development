@@ -2,9 +2,9 @@
 
 
 ## Desafio de projeto
-Resolver os exercicios e aplicando testes unitarios.
+Aplicando TDD - Test Drive Development com C#
 
-## Quantidade de testes aprovados até o momento:
+## Condições e regras de negocio:
 
-<img src="Imagens/tests.png" alt="logo_samuelflm">
+<img src="Imagens/refinamento.png" alt="logo_samuelflm">
 
