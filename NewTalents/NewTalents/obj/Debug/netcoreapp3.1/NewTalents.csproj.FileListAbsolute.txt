@@ -1,0 +1,14 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\TDD\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
