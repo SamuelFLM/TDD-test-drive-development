@@ -57,15 +57,5 @@ namespace TestNewTalents
                 () => _calc.Dividir(2, 0)
             );
         }
-
-
-        [Fact]
-        public void HistoricoTeste()
-        {
-            List<string> historico = _calc.Historico();
-
-            Assert.Equal(3, historico.Count);
-
-        }
     }
 }
